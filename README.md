@@ -88,8 +88,7 @@ Go visit the link your terminal gave you: `http://127.0.0.1:5000/`
 Click on `Lab Exercise` at the top nav menu. You should now be at `http://127.0.0.1:5000/exercise`
 
 
-**Task 1**
-
+#### Task 1
 Notice that our text in the middle says `Move me to the left!`
 
 * Edit the `exercise.css` file to move the text that says `Move me to the left!` to the left.
@@ -99,8 +98,7 @@ Notice that our text in the middle says `Move me to the left!`
 
 Take some time to figure this out yourself. If stumped, take a look at the instructions below:
 
-**Answer 1**
-
+#### Answer 1
 * Find what div class the text `Move me to the left!` is. Take a look into `exercise.html`.
 * Notice that it looks like this:
 ```html
@@ -116,8 +114,7 @@ Take some time to figure this out yourself. If stumped, take a look at the instr
 
 What we did here was make the association between HTML and CSS code. By looking at our HTML tags and finding what properties it has (class,, id, or element name), we can then see which rules apply to it in our CSS code. By matching the CSS selector to the HTML element, we can change those rules and make the HTML appearance change!
 
-**Task 2**
-
+#### Task 2
 * Now move over into `exercise.html`
 * Find the html comment that says `<!-- Add your own content below -->`
 * Add a row with your contact info in 3 columns
@@ -134,8 +131,7 @@ What we did here was make the association between HTML and CSS code. By looking 
 
 Please take some time to figure this out on your own. I have provided a sample html section right above the part you need to edit. You can copy this code to get the basic layout.
 
-**Answer 2**
-
+#### Answer 2
 Let's first handle the contact info.
 * First create a new row
 ```html
