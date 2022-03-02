@@ -205,6 +205,8 @@ Next let's add the project rows.
 
 * Add two more rows like this, and you are done!
 
+Notice how easy it is to add new rows and content. Your HTML tags are used to structure the layout of your page, while your text can fill in the spaces that you have laid out. Try and get the hang of how the bootstrap class names work. Once you do, then writing responsive websites will come easy.
+
 ### Section 2
 
 In this section, you will edit the contents of `index.html` to fill in your personal accomplishments, information, etc.
